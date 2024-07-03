@@ -60,7 +60,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/danteedmonson/habit-tracking.git
+$ git clone https://github.com/inkeshg21/Person-Habit-tracker.git
 
 # Go into the repository
 $ cd frontend
